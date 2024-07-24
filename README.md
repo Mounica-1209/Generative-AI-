@@ -2,6 +2,9 @@
 
 The GitHub folder aims to curate and maintain current information available online. When browsing platforms like LinkedIn, numerous resources and vast amounts of information are accessible. The goal is to streamline and comprehend both AI and Gen AI.
 
+
+
+
 AI vs. Generative AI (GenAI)
 AI (Artificial Intelligence)
 Example: Voice Assistants
