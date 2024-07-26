@@ -1,6 +1,6 @@
 # AI CookBook
 
-The GitHub folder aims to curate and maintain current information available online. When browsing platforms like LinkedIn, numerous resources and vast amounts of information are accessible. The goal is to streamline and comprehend both AI and Gen AI.
+The GitHub folder aims to curate and maintain current information available online. When browsing platforms like LinkedIn, numerous resources and vast amounts of information are accessible, the goal is to streamline and comprehend both AI and Gen AI.
 
 
 
